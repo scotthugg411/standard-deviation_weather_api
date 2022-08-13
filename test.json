@@ -1,0 +1,23 @@
+{
+    "message": "success",
+    "data": {
+        "lat": 39.278301,
+        "temperature": 82.5,
+        "windBearing": 92.95,
+        "windSpeed": 3.44,
+        "apparentTemperature": 86.9,
+        "dewPoint": 72.5,
+        "pressure": 1017.68,
+        "windGust": 3.26,
+        "cloudCover": 0,
+        "visibility": 24.14,
+        "ozone": 308.73,
+        "humidity": 0.7,
+        "uvIndex": 4.51,
+        "time": 1658412000,
+        "summary": "Clear Sky and Sunny",
+        "icon": "clear",
+        "lng": -74.575523,
+        "precipIntensity": 0
+    }
+}
